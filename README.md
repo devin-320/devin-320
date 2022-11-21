@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devin-320
-- 👀 I’m interested in crypto currency, python, JarvaScript, HTML, C#, C++.
-- 🌱 I’m currently learning none
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in crypto currency, python, JarvaScript.
+- 🌱 I’m currently learning python and jarvascript.
+- 💞️ I’m looking to collaborate on a jarvis from iron man project.
 - 📫 How to reach me. email me at owensdev746@gmail.com
 
 <!---
